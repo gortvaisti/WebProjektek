@@ -1,0 +1,56 @@
+canvas{
+  display: block;
+  margin: 0 auto;
+}
+
+body{
+  background-color: royalblue;
+}
+
+#beforeStart{
+  max-width: 500px;
+  margin: auto;
+  padding: 20px;
+  background-color: white;
+  border-radius: 10px;
+  text-align: center;
+}
+
+#beforeStart h1{
+  font-size: 40px;
+  margin-top: 0;
+}
+
+#beforeStart label{
+  display: inline-block;
+  margin-bottom: 10px;
+  font-size: 20px;
+}
+
+#beforeStart input{
+  padding: 10px;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+#beforeStart button{
+  background-color: green;
+  color: white;
+  padding: 10px 20px;
+  font-size: 20px;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+#restartbutton {
+  background-color: green;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  font-size: 20px;
+  position: absolute;
+  top: 70%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+

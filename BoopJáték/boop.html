@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="boop.css">
+    <title>Cicók</title>
+</head>
+<body>
+
+    <div id="beforeStart">
+        <h1>Boop</h1>
+        <label for="player1">Játékos 1</label>
+        <input type="text" id="player1" name="player1" value="player1"><br>
+      
+        <label for="player2">Játékos 2</label>
+        <input type="text" id="player2" name="player2" value="player2"><br>
+      
+        <label for="winningscore">Pont a győzelemhez</label>
+        <input type="number" id="winningscore" name="winningscore" value="5" min="1" max="10"><br>
+      
+        <button id="startbutton">Start</button>
+    </div>
+
+    <button id="restartbutton">Új játék</button>
+
+    <canvas id="boopCanvas" width="1200" height="800"></canvas>
+
+    <script src="boop.js"></script>
+</body>
+</html>

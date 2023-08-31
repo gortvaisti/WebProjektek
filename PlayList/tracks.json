@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Baby One More Time",
+        "artist": "Britney Spears",
+        "length": 237,
+        "year": 1998,
+        "genres": [
+            "dance pop",
+            "teen pop"
+        ]
+    },
+    {
+        "title": "It's my life",
+        "artist": "Bon Jovi",
+        "length": 224,
+        "year": 2000,
+        "genres": [
+            "pop rock",
+            "arena rock"
+        ]
+    },
+    {
+        "title": "Suerte",
+        "artist": "Shakira",
+        "length": 196,
+        "year": 2001,
+        "genres": [
+            "worldbeat",
+            "latin"
+        ]
+    }
+]

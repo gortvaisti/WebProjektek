@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Best early 2000s hits",
+        "public": true,
+        "created_by": "userid2",
+        "tracks": [
+            1,
+            2
+        ]
+    },
+    {
+        "name": "Pretty ladies who sing",
+        "public": true,
+        "created_by": "userid1",
+        "tracks": [
+            0,
+            2
+        ]
+    }
+]
